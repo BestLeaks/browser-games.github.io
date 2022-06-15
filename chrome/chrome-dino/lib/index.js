@@ -1,4 +1,4 @@
-import DinoGame from './game/DinoGame.js'
+import DinoGame from 'game/DinoGame.js'
 
 const game = new DinoGame(600, 150)
 const isTouchDevice =
